@@ -1,4 +1,4 @@
-// App.js
+// The app validates the input, calls the API, and shows the exchange rate and the converted amount. There is also an About screen that displays my name, student ID, and a short description of the application.
 import React, { useState } from "react";
 import {
   SafeAreaView,
